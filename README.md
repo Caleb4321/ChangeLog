@@ -1,0 +1,2 @@
+# SOLA-ChangeLog
+Test
