@@ -1,3 +1,0 @@
-# ChangeLog
-Test
-Test
