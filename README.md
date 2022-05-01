@@ -1,2 +1,2 @@
-# SOLA-ChangeLog
+# ChangeLog
 Test
